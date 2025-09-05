@@ -83,4 +83,5 @@ int main() {
     exibirCarta(carta2, 2);
 
     return 0;
+    
 }
